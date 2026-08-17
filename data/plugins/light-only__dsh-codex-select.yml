@@ -1,0 +1,6 @@
+url: https://github.com/light-only/dsh-codex-select
+name: light-only/dsh-codex-select
+category: ui
+description:
+  en: Codex-style code selection for the DSH Web GUI: workspace file tree with a file viewer; selecting code automatically adds it to the composer as a reference chip, and the selection is serialized into the message as context.
+  zh: Codex 式代码选择插件：工作区文件树加文件查看器，划选代码自动以 chip 形式加入输入框，发送时作为上下文随消息带上。
